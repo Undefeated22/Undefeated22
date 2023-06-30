@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Kubernatives and cloud computers**
+- 🌱 I’m currently learning **Kubernatives , cloud computers , DevOps, Orchestration, Automation**
 
 - 📫 How to reach me **11undefeated22@gmail.com**
 
-- ⚡ Fun fact **I'm a creative thinker**
+- ⚡Obvious Fun fact **I'm a creative thinker**
 
 <div align="center">
 
 <h3 >Connect with me:</h3>
 <p >
-<a href="https://linkedin.com/in/tushar-525914199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-525914199" height="30" width="40" /></a>
-<a href="https://instagram.com/tushar._.2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar._.2908" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tushar2908" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar2908" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lohit-saini-34a048272/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lohit-saini-34a048272" height="30" width="40" /></a>
+
+<a href="(https://www.codechef.com/users/undefeated22)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="undefeated22" height="30" width="40" /></a>
 </p>
 <h3>Languages:</h3>
 <p>
