@@ -1,39 +1,38 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#38BDF8;">Lohit</span>!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;MERN+Stack+%7C+TypeScript+%7C+React+Native;Open+Source+%E2%9D%A4%EF%B8%8F;Devops;Always+learning+something+new..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;MERN+Stack+%7C+TypeScript+React-Native+%7C+CI%2FCD;Open+Source+Enthusiast;Devops;Always+learning+something+new..." />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 Final Year B.Tech (ECE)
-- 💻 Full-Stack Developer building real-world apps
-- 🔭 Currently working on: **GPTify**, **Phone Case Store (Web)**
-- ⚙️ I love solving problems with **Next.js**, **MongoDB**, **React Native**, and **Docker**
-- 🧠 Passionate about **DevOps**, CI/CD, and automation workflows
-- 🌱 Always learning something new 
+- 💻 Full-Stack & React Native Developer
+- 🔭 Currently working on: **GPTify**, **Phone Case Store (Web & App)**
+- ⚙️ Tech I love: **Next.js**, **React Native**, **MongoDB**, **Docker**, 
+- 🧠 Exploring: DevOps, GitHub Actions, and CI/CD workflows
+
 
 ---
 
 ### 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,react-native,nodejs,typescript,tailwind,js,mongodb,express,figma,vercel,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,typescript,javascript,tailwind,express,mongodb,vercel,docker,figma,git,github,linux" />
 </p>
 
 ---
 
 ### 🚀 Projects I'm Building
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **GPTify** | Chrome Extension to use OpenAI on any webpage | JS • Manifest V3 |
+| 📦 Project | 📝 Description | ⚙️ Tech |
+|-----------|----------------|---------|
+| **🧠 GPTify** | Chrome Extension to run OpenAI API anywhere | JS • Manifest V3 |
 
-| **🛒 Phone Case Store (Web)** | E-commerce site to design & buy phone cases | Next.js • Stripe • MongoDB |
-
+| **🛍️ Phone Case Store (Web)** | E-commerce site for buying custom cases | Next.js • MongoDB • Stripe |
 
 ---
 
-### 📊 GitHub Vibes
+### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Undefeated22&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Undefeated22&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
@@ -41,14 +40,11 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 <p align="center">
-  <a href="mailto:lohit.yourmail@example.com"><img src="https://img.shields.io/badge/-Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-101010?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:11undefeated22@gmail.com"><img src="https://img.shields.io/badge/-Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/lohit-undefeated?"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
 </p>
 
 ---
-
->_
-
