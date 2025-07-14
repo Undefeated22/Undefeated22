@@ -17,7 +17,7 @@
 
 ### 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,typescript,javascript,tailwind,express,mongodb,vercel,docker,figma,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,tailwind,express,mongodb,vercel,docker,figma,git,github,linux" />
 </p>
 
 ---
