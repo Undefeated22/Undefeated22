@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#38BDF8;">Lohit</span>!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;MERN+Stack+%7C+TypeScript+%7C+React+Native;Open+Source+%E2%9D%A4%EF%B8%8F;Always+learning+something+new..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;MERN+Stack+%7C+TypeScript+%7C+React+Native;Open+Source+%E2%9D%A4%EF%B8%8F;Always+learning+something+new..." />
 </p>
 
 ---
